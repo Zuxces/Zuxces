@@ -1,6 +1,6 @@
 ### Hello, 👋 I'm Zuxces!
 
-- 🔭 I’m currently working on zuxces.net/
+- 🔭 I’m currently working on https://zuxces.net/
 - 🌱 I’m currently learning hmtl
 - 💬 Ask me about what I enjoy doing!
 - 📫 How to reach me: contact@zuxces.net
