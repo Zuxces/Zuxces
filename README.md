@@ -17,3 +17,10 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zuxces&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+![Github](https://img.shields.io/github/followers/Zuxces?label=Follow%20my%20Github&style=social)
+
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UCuVh8Mwe9WcmiVTB_WTbUpw?label=Subscribe&style=social)
+
+![Twitter](https://img.shields.io/twitter/follow/Zuxces?label=Follow%20my%20Twitter&style=social)
