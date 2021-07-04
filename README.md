@@ -18,9 +18,20 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zuxces&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+- Github Stats:
 
-![Github](https://img.shields.io/github/followers/Zuxces?label=Follow%20my%20Github&style=social)
+![Github](https://img.shields.io/github/followers/Zuxces?label=Total%20Followers&style=social)
 
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCuVh8Mwe9WcmiVTB_WTbUpw?label=Subscribe%20to%20my%20YouTube&style=social)
+- YouTube Stats:
 
-![Twitter](https://img.shields.io/twitter/follow/Zuxces?label=Follow%20my%20Twitter&style=social)
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UCuVh8Mwe9WcmiVTB_WTbUpw?label=Total%20Subscribers&style=social)
+
+![YouTube](https://img.shields.io/youtube/channel/views/UCuVh8Mwe9WcmiVTB_WTbUpw?label=Total%20Views&style=social)
+
+- Twitter Stats:
+
+![Twitter](https://img.shields.io/twitter/follow/Zuxces?label=Total%20Followers&style=social)
+
+- Twitch Stats:
+- 
+![Twitch](https://img.shields.io/twitch/status/Zuxces?label=Twitch%20Stream&style=social)
