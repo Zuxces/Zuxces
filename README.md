@@ -33,5 +33,5 @@
 ![Twitter](https://img.shields.io/twitter/follow/Zuxces?label=Total%20Followers&style=social)
 
 - Twitch Stats:
-- 
+
 ![Twitch](https://img.shields.io/twitch/status/Zuxces?label=Twitch%20Stream&style=social)
