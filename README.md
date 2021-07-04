@@ -6,4 +6,3 @@
 - 📫 How to reach me: contact@zuxces.net
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: I get bored easily.
--->
