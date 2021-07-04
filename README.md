@@ -1,4 +1,4 @@
-### Hello, I'm Zuxces!
+### Hello, <img src="https://cdn.discordapp.com/emojis/781603874770649179.gif?v=1"> I'm Zuxces!
 
 - 🔭 I’m currently working on zuxces.net/
 - 🌱 I’m currently learning hmtl
