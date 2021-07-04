@@ -21,6 +21,6 @@
 
 ![Github](https://img.shields.io/github/followers/Zuxces?label=Follow%20my%20Github&style=social)
 
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCuVh8Mwe9WcmiVTB_WTbUpw?label=Subscribe&style=social)
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UCuVh8Mwe9WcmiVTB_WTbUpw?label=Subscribe%20to%20my%20YouTube&style=social)
 
 ![Twitter](https://img.shields.io/twitter/follow/Zuxces?label=Follow%20my%20Twitter&style=social)
