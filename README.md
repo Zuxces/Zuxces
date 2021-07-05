@@ -1,11 +1,4 @@
-### Hello, 👋 I'm Zuxces!
 
-- 🔭 I’m currently working on https://zuxces.net/
-- 🌱 I’m currently learning hmtl
-- 💬 Ask me about what I enjoy doing!
-- 📫 How to reach me: contact@zuxces.net
-- 😄 Pronouns: He/Him/They
-- ⚡ Fun fact: I get bored easily.
 
 ```Javascript
 import java.lang.StringBuilder
@@ -50,4 +43,4 @@ data class User(val name: String, val age: Int, val occupation: String, val nerd
 
 ![Twitch](https://img.shields.io/twitch/status/Zuxces?label=Twitch%20Stream&style=social)
 
-- Anways, thanks for checking out my profile!
+### Anways, thanks for checking out my profile!
