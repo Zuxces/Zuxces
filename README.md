@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: I get bored easily.
 
-![image](https://user-images.githubusercontent.com/67604119/124491709-7b237700-ddab-11eb-9d2a-8f0953c6abe0.png)
+![image](https://user-images.githubusercontent.com/67604119/124500387-985e4280-ddb7-11eb-81da-3147f812c45c.png)
 
 
 [Website: zuxces.net](https://zuxces.net/)
