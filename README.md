@@ -14,11 +14,11 @@ fun main() {
 data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
 ```
 
-- [Website: zuxces.net](https://zuxces.net/)
+### - [Website: zuxces.net](https://zuxces.net/)
 
-- [YouTube: YouTube.com/Zuxces](https://youtube.com/Zuxces)
+### - [YouTube: YouTube.com/Zuxces](https://youtube.com/Zuxces)
 
-- [Twitter: Twitter.com/Zuxces](https://twitter.com/Zuxces)
+### - [Twitter: Twitter.com/Zuxces](https://twitter.com/Zuxces)
 
 
 
