@@ -39,7 +39,7 @@
 
 
 ```Javascript
-  import java.lang.StringBuilder
+import java.lang.StringBuilder
 
 fun main() {
     val brys = User(name = "Zuxces", age = 15, occupation = "Developer", nerd = true)
