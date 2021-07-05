@@ -9,12 +9,11 @@
 
 ![image](https://user-images.githubusercontent.com/67604119/124500387-985e4280-ddb7-11eb-81da-3147f812c45c.png)
 
+- [Website: zuxces.net](https://zuxces.net/)
 
-[Website: zuxces.net](https://zuxces.net/)
+- [YouTube: YouTube.com/Zuxces](https://youtube.com/Zuxces)
 
-[YouTube: YouTube.com/Zuxces](https://youtube.com/Zuxces)
-
-[Twitter: Twitter.com/Zuxces](https://twitter.com/Zuxces)
+- [Twitter: Twitter.com/Zuxces](https://twitter.com/Zuxces)
 
 
 
@@ -37,3 +36,21 @@
 - Twitch Stats:
 
 ![Twitch](https://img.shields.io/twitch/status/Zuxces?label=Twitch%20Stream&style=social)
+
+
+```Javascript
+  import java.lang.StringBuilder
+
+fun main() {
+    val brys = User(name = "Zuxces", age = 15, occupation = "Developer", nerd = true)
+    val user = StringBuilder()
+    user.append("Name: ${Zux.name}\n")
+    user.append("Age: ${Zux.age}\n")
+    user.append("Occupation: ${Zux.occupation}\n")
+    user.append("Nerd: ${Zux.nerd}")
+    println(user)
+}
+data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
+```
+
+- Anways, thanks for checking out my profile!
