@@ -11,7 +11,7 @@
 import java.lang.StringBuilder
 
 fun main() {
-    val brys = User(name = "Zuxces", age = 15, occupation = "Developer", nerd = true)
+    val Zux = User(name = "Zuxces", age = 15, occupation = "Developer", nerd = true)
     val user = StringBuilder()
     user.append("Name: ${Zux.name}\n")
     user.append("Age: ${Zux.age}\n")
