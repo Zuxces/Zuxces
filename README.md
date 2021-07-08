@@ -7,7 +7,7 @@ fun main() {
     val user = StringBuilder()
     user.append("Name: ${Zux.name}\n")
     user.append("Age: ${Zux.age}\n")
-    user.append("Occupation: ${Zux.occupation}\n")
+    user.append("Occupation: ${Zux.occupation}\n")                                                
     user.append("Nerd: ${Zux.nerd}")
     println(user)
 }
@@ -22,7 +22,9 @@ data class User(val name: String, val age: Int, val occupation: String, val nerd
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zuxces&&show_icons=true&title_color=00eaff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Zuxces&&show_icons=true&title_color=00eaff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+
+[![More Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zuxces&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/Zuxces)
 
 - Github Stats:
 
