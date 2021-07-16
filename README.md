@@ -1,5 +1,6 @@
-###
-```Javascript
+<h3>
+    
+```kotlin
 import java.lang.StringBuilder
 
 fun main() {
@@ -13,6 +14,7 @@ fun main() {
 }
 data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
 ```
+</h3>
 
 ### - [Website: zuxces.net](https://zuxces.net/)
 
