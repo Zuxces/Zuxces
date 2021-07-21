@@ -22,7 +22,7 @@ data class User(val name: String, val age: Int, val occupation: String, val nerd
 
 ### - [Twitter: Twitter.com/Zuxces](https://twitter.com/Zuxces)
 
-
+### - [Discord: Zuxces.net/dsc](https://zuxces.net/dsc)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zuxces&&show_icons=true&title_color=00eaff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 
