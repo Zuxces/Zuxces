@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Zuxces/Zuxces/header.svg">
+  <img src="https://github.com/Zuxces/Zuxces/blob/main/header.svg">
 </h1>
 
 <h3>
