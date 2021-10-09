@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/Zuxces/Zuxces/blob/main/header.svg">
 </h1>
-    
+
 ```kotlin
 import java.lang.StringBuilder
 
@@ -16,7 +16,6 @@ fun main() {
 }
 data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
 ```
-</h3>
 
 ### - [Website: zuxces.net](https://zuxces.net/)
 
