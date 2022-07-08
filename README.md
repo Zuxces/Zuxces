@@ -1,6 +1,26 @@
-<h1 align="center">
-  <img src="https://github.com/Zuxces/Zuxces/blob/main/header.svg">
-</h1>
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Zuxces</h1>
+<h4 align="center">I program stuff when I am bored and play around with other peoples projects! </h4>
+</div>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/5culqu5kru3731ap6vvz1a3ta">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/5culqu5kru3731ap6vvz1a3ta">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+
 
 ```kotlin
 import java.lang.StringBuilder
@@ -16,35 +36,3 @@ fun main() {
 }
 data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
 ```
-
-### - [Website: zuxces.net](https://zuxces.net/)
-
-### - [YouTube: YouTube.com/Zuxces](https://youtube.com/Zuxces)
-
-### - [Twitter: Twitter.com/Zuxces](https://twitter.com/Zuxces)
-
-### - [Discord: Zuxces.net/dsc](https://zuxces.net/dsc)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zuxces&&show_icons=true&title_color=00eaff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
-
-[![More Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zuxces&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/Zuxces)
-
-- Github Stats:
-
-![Github](https://img.shields.io/github/followers/Zuxces?label=Total%20Followers&style=social)
-
-- YouTube Stats:
-
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCuVh8Mwe9WcmiVTB_WTbUpw?label=Total%20Subscribers&style=social)
-
-![YouTube](https://img.shields.io/youtube/channel/views/UCuVh8Mwe9WcmiVTB_WTbUpw?label=Total%20Views&style=social)
-
-- Twitter Stats:
-
-![Twitter](https://img.shields.io/twitter/follow/Zuxces?label=Total%20Followers&style=social)
-
-- Twitch Stats:
-
-![Twitch](https://img.shields.io/twitch/status/Zuxces?label=Twitch%20Stream&style=social)
-
-### Anways, thanks for checking out my profile!
