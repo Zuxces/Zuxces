@@ -3,36 +3,20 @@
 <h4 align="center">I program stuff when I am bored and play around with other peoples projects! </h4>
 </div>
 
+------
+
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/5culqu5kru3731ap6vvz1a3ta">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Zuxces&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zuxces&theme=gruvbox&hide_border=true" />
   </a>
-</div>
+</p>
+<br>
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/5culqu5kru3731ap6vvz1a3ta">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
-
-
-```kotlin
-import java.lang.StringBuilder
-
-fun main() {
-    val Zux = User(name = "Zuxces", age = 15, occupation = "Developer", nerd = true)
-    val user = StringBuilder()
-    user.append("Name: ${Zux.name}\n")
-    user.append("Age: ${Zux.age}\n")
-    user.append("Occupation: ${Zux.occupation}\n")                                                
-    user.append("Nerd: ${Zux.nerd}")
-    println(user)
-}
-data class User(val name: String, val age: Int, val occupation: String, val nerd: Boolean)
-```
+[![Zuxces](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Zuxces%20Stats's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
